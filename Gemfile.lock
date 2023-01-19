@@ -74,7 +74,7 @@ GEM
     minitest (5.6.1)
     multi_json (1.11.0)
     multi_xml (0.5.5)
-    rack (1.5.3)
+    rack (1.5.5)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-mount (0.8.3)
